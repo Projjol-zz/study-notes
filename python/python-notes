@@ -1,0 +1,7 @@
+Python
+
+* Access environment variables : 
+  import os
+  os.environ
+    
+    % os.environ : returns a dict of environment variables {'HOME': '/location/user_name', 'RUBY_VERSION': 'ruby-2.2.0', '_system_arch': 'x86_64'}
