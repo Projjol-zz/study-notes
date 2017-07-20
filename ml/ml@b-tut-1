@@ -2,3 +2,4 @@ Classification is used to separate data into multiple sets and does this by usin
   Example of this would be to classify apples and oranges, i.e. proedict that a given data point falls in which category
 Regression helps one understand the data given, i.e regression helps explain why certain data is the way it is. Analogous to a decision boundary in  regression problems is a predictor
   Example would be a house price analayzer, wherein given the size of the house one can predict the price of the house
+
